@@ -76,6 +76,7 @@ IoT-based tracking dashboards
 👥 Multiple users displayed simultaneously
 🗄️ MongoDB integration for storing location history
 🔐 Authentication & authorization
-☁️ Deployment on Render / Railway / AWS
+ 
+
 
 
