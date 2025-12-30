@@ -11,7 +11,6 @@ This project demonstrates real-time communication between client and server and 
 🗺️ Interactive map powered by Leaflet.js
 📡 Live location updates on the map
 ⚡ Fast and lightweight backend using Express
-🎨 Clean UI with external CSS
 🔄 Auto server reload using Nodemon (development)
 
 🛠️ Tech Stack
@@ -77,6 +76,7 @@ IoT-based tracking dashboards
 🗄️ MongoDB integration for storing location history
 🔐 Authentication & authorization
  
+
 
 
 
